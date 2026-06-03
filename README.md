@@ -1,1 +1,6 @@
-# soochowditu
+專案說明 (Project Overview)
+🐻 校園互動地圖 (Xiào yuán hù dòng dì tú)
+這是一個簡單的校園地圖網頁。 (Zhè shì yī gè jiǎn dān de xiào yuán dì tú wǎng yè.)
+如何遊玩 (How to play)
+移動 (Yí dòng): 使用鍵盤的 W, A, S, D 或方向鍵。 (Shǐ yòng jiàn pán de W, A, S, D huò fāng xiàng jiàn.)
+探索 (Tàn suǒ): 走到地標位置即可發現地點。 (Zǒu dào dì biāo wèi zhì jí kě fā xiàn dì diǎn.)
